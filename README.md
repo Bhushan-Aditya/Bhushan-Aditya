@@ -53,54 +53,56 @@ community: iOS Developer @ SRM iOS Dev Center
 
 ## Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-</div>
-
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Cosmos
+### Cosmos  
 **Educational Swift Playground for Space Enthusiasts**
-- Reignites passion for space exploration
-- Built with Swift & SwiftUI
-- Swift Student Challenge Winner Project
+
+- Reignites passion for space exploration  
+- Built with Swift & SwiftUI  
+- Swift Student Challenge Winner Project  
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Zeta
-**AI-Powered Story Generator for Kids**
-- Accessibility-first design
-- Text-to-Speech integration
-- GPT-LLM powered narratives
+### Kalaa Studio  
+**Mandala Creation Platform for Art, Learning & Wellness**
+
+- Canvas of Symmetry for precise mandala creation  
+- Templates and Outline Uploader for guided practice  
+- Gamified learning stages and Community Gallery  
+- Built with Swift & SwiftUI  
+- Live on the App Store  
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### Shadow
-**Educational Swift Playground for Shadows**
-- Teaches shadow concepts
-- Shadow Labs for real-time light experimentation
-- Built with Swift & SwiftUI
-- Swift Student Challenge Winner Project
+<tr>
+<td width="50%" valign="top">
+
+### Shadow  
+**Interactive Shadow Learning Playground**
+
+- Teaches shadow concepts like umbra and penumbra  
+- Shadow Labs for real-time light experimentation  
+- Features Morphy — 3D shadow visualization  
+- Built with Swift & SwiftUI  
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Learnly.AI
+### Learnly.AI  
 **OCR-Powered Student Assistant**
-- Smart note processing
-- Doubt solving system
-- Python, OpenCV, Flutter stack
+
+- Smart note processing  
+- Doubt solving system  
+- Python, OpenCV, Flutter stack  
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## Learning Journey & Certifications

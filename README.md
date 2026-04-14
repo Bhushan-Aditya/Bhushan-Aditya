@@ -21,7 +21,7 @@ name: Aditya Bhushan
 education: B.Tech CSE @ SRM Institute of Science & Technology (2027)
 current_role: iOS Student Developer Program
 passion_project: Kalaa Studio
-achievement: 2 x Apple Swift Student Challenge Winner (2025 | 2026) 🏆
+achievement: 2 x Apple Swift Student Challenge Winner (2025 | 2026) 
 community: iOS Developer @ SRM iOS Dev Center
 ```
 

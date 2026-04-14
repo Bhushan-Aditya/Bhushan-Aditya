@@ -27,7 +27,7 @@ community: iOS Developer @ SRM iOS Dev Center
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
   
